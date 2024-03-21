@@ -1,4 +1,3 @@
-# ASSIGNMENT06, Comp 1405
 # Bereket Ashebir Alemu 101282366
 
 import pygame,random
